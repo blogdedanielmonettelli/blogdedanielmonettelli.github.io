@@ -1,4 +1,4 @@
-<a href="https://blogdedanielmonettelli.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/blogdedanielmonettelli/blogdedanielmonettelli.github.io/master/assets/img/images/brand/logo_brand_blog_of_daniel_monettelli.png" alt="Blog de Daniel Monettelli" height="100" width="100"></a>
+<a href="https://blogdedanielmonettelli.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/blogdedanielmonettelli/blogdedanielmonettelli.github.io/master/assets/images/brand/logo_brand_blog_of_daniel_monettelli.png" alt="Blog de Daniel Monettelli" height="100" width="100"></a>
 
 ---
 

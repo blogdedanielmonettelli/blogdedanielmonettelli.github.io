@@ -188,7 +188,7 @@ partial void OnSelectedPlanetChanging(Planet oldValue, Planet newValue)
 
 El proyecto es de código abierto y puedes verlo haciendo clic en la siguiente imagen. ¡No dudes en echar un vistazo!
 
-[![8-x-github-repository](https://raw.githubusercontent.com/blogdedanielmonettelli/blogdedanielmonettelli.github.io/main/assets/img/images/9_x_github_repository.png)](https://github.com/danielmonettelli/netmaui-planetanaka-app-challenge){:target="_blank"}
+[![8-x-github-repository](https://raw.githubusercontent.com/blogdedanielmonettelli/blogdedanielmonettelli.github.io/main/assets/images/9_x_github_repository.png)](https://github.com/danielmonettelli/netmaui-planetanaka-app-challenge){:target="_blank"}
 
 ---
 
